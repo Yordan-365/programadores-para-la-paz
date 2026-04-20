@@ -1,0 +1,8 @@
+Para mí el uso responsable de la información en internet y la ciudadanía digital van de la mano, porque ambos me exigen actuar con ética cuando publico o comparto
+algo. Como ciudadano digital, mi participación en línea no es solo opinar: también es verificar antes de reenviar para no alimentar la desinformación.
+Aquí es donde entra para mi herramientas como Git. Aprendí que Git guarda un historial de cada cambio que hago, quién lo hizo y por qué. Eso es exactamente
+lo mismo que hacemos al ser responsables con la información: dejar rastro, ser transparentes y poder corregir si nos equivocamos.
+La relación que encuentro es que las tres cosas construyen confianza. Si todos verificamos lo que compartimos, participamos con respeto y usamos herramientas
+que ordenan nuestro trabajo, la información que circula es más confiable. Si organizamos un proyecto con Git entre todos, como un equipo es un ejemplo de 
+ciudadanía digital: hay control, transparencia, responsabilidad y respeto por el trabajo de los demás. Así, la tecnología deja de ser solo para chatear y se
+vuelve una forma de construir conocimiento seguro y organizado entre todos. 
